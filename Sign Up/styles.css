@@ -1,0 +1,137 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1080px;
+	 height: 720px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1080px;
+	 height: 720px;
+	 z-index:1;
+} 
+
+ #TestWebsite2 
+{ 
+	 left: 786px; 
+	 top: 39px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 192px;
+	 z-index:2;
+} 
+
+ #SignUp 
+{ 
+	 left: 396px; 
+	 top: 146px; 
+	 position: absolute; 
+	 width: 261px;
+	 height: 94px;
+	 z-index:3;
+} 
+
+ #Done 
+{ 
+	 left: 479px; 
+	 top: 625px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 40px;
+	 z-index:4;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 268px; 
+	 top: 259px; 
+	 position: absolute; 
+	 width: 523px;
+	 height: 57px;
+	 z-index:5;
+} 
+
+ #RoundedRectangle1cop 
+{ 
+	 left: 268px; 
+	 top: 348px; 
+	 position: absolute; 
+	 width: 523px;
+	 height: 57px;
+	 z-index:6;
+} 
+
+ #RoundedRectangle1cop_0 
+{ 
+	 left: 268px; 
+	 top: 433px; 
+	 position: absolute; 
+	 width: 523px;
+	 height: 57px;
+	 z-index:7;
+} 
+
+ #RoundedRectangle1cop_1 
+{ 
+	 left: 268px; 
+	 top: 522px; 
+	 position: absolute; 
+	 width: 523px;
+	 height: 57px;
+	 z-index:8;
+} 
+
+ #Username 
+{ 
+	 left: 119px; 
+	 top: 275px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 27px;
+	 z-index:9;
+} 
+
+ #Email 
+{ 
+	 left: 167px; 
+	 top: 366px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 27px;
+	 z-index:10;
+} 
+
+ #Password 
+{ 
+	 left: 125px; 
+	 top: 449px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 27px;
+	 z-index:11;
+} 
+
+ #VerifyPassword 
+{ 
+	 left: 125px; 
+	 top: 517px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 55px;
+	 z-index:12;
+} 
