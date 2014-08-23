@@ -1,0 +1,547 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1080px;
+	 height: 720px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1080px;
+	 height: 720px;
+	 z-index:1;
+} 
+
+ #InfoSqaure1Shadow 
+{ 
+	 left: 42px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:2;
+} 
+
+ #InfoSqaure1 
+{ 
+	 left: 40px; 
+	 top: 242px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:3;
+} 
+
+ #InfoSqaure2Shadow 
+{ 
+	 left: 304px; 
+	 top: 243px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:4;
+} 
+
+ #InfoSqaure2 
+{ 
+	 left: 301px; 
+	 top: 242px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:5;
+} 
+
+ #InfoSqaure3Shadow 
+{ 
+	 left: 559px; 
+	 top: 242px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:6;
+} 
+
+ #InfoSqaure3 
+{ 
+	 left: 557px; 
+	 top: 240px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:7;
+} 
+
+ #InfoSqaure4Shadow 
+{ 
+	 left: 815px; 
+	 top: 243px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:8;
+} 
+
+ #InfoSqaure4 
+{ 
+	 left: 813px; 
+	 top: 240px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:9;
+} 
+
+ #InfoSqaure5Shadow 
+{ 
+	 left: 42px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:10;
+} 
+
+ #InfoSqaure5 
+{ 
+	 left: 40px; 
+	 top: 477px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:11;
+} 
+
+ #InfoSqaure6Shadow 
+{ 
+	 left: 303px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:12;
+} 
+
+ #InfoSqaure6 
+{ 
+	 left: 301px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:13;
+} 
+
+ #InfoSqaure7Shadow 
+{ 
+	 left: 556px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:14;
+} 
+
+ #InfoSqaure7 
+{ 
+	 left: 553px; 
+	 top: 477px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:15;
+} 
+
+ #InfoSqaure8Shadow 
+{ 
+	 left: 817px; 
+	 top: 478px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:16;
+} 
+
+ #InfoSqaure8 
+{ 
+	 left: 815px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 227px;
+	 height: 210px;
+	 z-index:17;
+} 
+
+ #SearchBar 
+{ 
+	 left: 51px; 
+	 top: 124px; 
+	 position: absolute; 
+	 width: 678px;
+	 height: 63px;
+	 z-index:18;
+} 
+
+ #Search 
+{ 
+	 left: 87px; 
+	 top: 139px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 27px;
+	 z-index:19;
+} 
+
+ #SearchIcon 
+{ 
+	 left: 677px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 41px;
+	 z-index:20;
+} 
+
+ #WebsiteName 
+{ 
+	 left: 741px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 171px;
+	 z-index:21;
+} 
+
+ #X1Circle 
+{ 
+	 left: 62px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:22;
+} 
+
+ #X2Circle 
+{ 
+	 left: 327px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:23;
+} 
+
+ #X3Circle 
+{ 
+	 left: 591px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:24;
+} 
+
+ #X4Circle 
+{ 
+	 left: 839px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:25;
+} 
+
+ #X5Circle 
+{ 
+	 left: 62px; 
+	 top: 459px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:26;
+} 
+
+ #X6Circle 
+{ 
+	 left: 327px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:27;
+} 
+
+ #X7Circle 
+{ 
+	 left: 587px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:28;
+} 
+
+ #X8Cricle 
+{ 
+	 left: 839px; 
+	 top: 457px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:29;
+} 
+
+ #Check1Circle 
+{ 
+	 left: 201px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:30;
+} 
+
+ #Check2Circle 
+{ 
+	 left: 462px; 
+	 top: 212px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:31;
+} 
+
+ #Check3Circle 
+{ 
+	 left: 710px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:32;
+} 
+
+ #Check4Circle 
+{ 
+	 left: 966px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:33;
+} 
+
+ #Check5Circle 
+{ 
+	 left: 203px; 
+	 top: 459px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:34;
+} 
+
+ #Check6Circle 
+{ 
+	 left: 461px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:35;
+} 
+
+ #Check7Circle 
+{ 
+	 left: 712px; 
+	 top: 456px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:36;
+} 
+
+ #Check8Circle 
+{ 
+	 left: 966px; 
+	 top: 456px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 45px;
+	 z-index:37;
+} 
+
+ #X1 
+{ 
+	 left: 72px; 
+	 top: 222px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:38;
+} 
+
+ #X2 
+{ 
+	 left: 337px; 
+	 top: 222px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:39;
+} 
+
+ #X3 
+{ 
+	 left: 601px; 
+	 top: 222px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:40;
+} 
+
+ #X4 
+{ 
+	 left: 848px; 
+	 top: 222px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:41;
+} 
+
+ #X5 
+{ 
+	 left: 71px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:42;
+} 
+
+ #X6 
+{ 
+	 left: 337px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:43;
+} 
+
+ #X7 
+{ 
+	 left: 596px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:44;
+} 
+
+ #X8 
+{ 
+	 left: 849px; 
+	 top: 466px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:45;
+} 
+
+ #Check1 
+{ 
+	 left: 211px; 
+	 top: 223px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:46;
+} 
+
+ #Check2 
+{ 
+	 left: 472px; 
+	 top: 222px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:47;
+} 
+
+ #Check3 
+{ 
+	 left: 720px; 
+	 top: 223px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:48;
+} 
+
+ #Check4 
+{ 
+	 left: 976px; 
+	 top: 223px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:49;
+} 
+
+ #Check5 
+{ 
+	 left: 214px; 
+	 top: 469px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:50;
+} 
+
+ #Check6 
+{ 
+	 left: 471px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:51;
+} 
+
+ #Check7 
+{ 
+	 left: 722px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:52;
+} 
+
+ #Check8 
+{ 
+	 left: 976px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:53;
+} 

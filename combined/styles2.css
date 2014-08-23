@@ -1,0 +1,97 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1080px;
+	 height: 720px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1080px;
+	 height: 720px;
+	 z-index:1;
+} 
+
+ #Login 
+{ 
+	 left: 416px; 
+	 top: 316px; 
+	 position: absolute; 
+	 width: 219px;
+	 height: 108px;
+	 z-index:2;
+} 
+
+ #SignUp 
+{ 
+	 left: 459px; 
+	 top: 619px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 47px;
+	 z-index:3;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 314px; 
+	 top: 434px; 
+	 position: absolute; 
+	 width: 421px;
+	 height: 67px;
+	 z-index:4;
+} 
+
+ #RoundedRectangle1cop 
+{ 
+	 left: 314px; 
+	 top: 525px; 
+	 position: absolute; 
+	 width: 421px;
+	 height: 67px;
+	 z-index:5;
+} 
+
+ #Username 
+{ 
+	 left: 150px; 
+	 top: 450px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 27px;
+	 z-index:6;
+} 
+
+ #Password 
+{ 
+	 left: 158px; 
+	 top: 545px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 27px;
+	 z-index:7;
+} 
+
+ #TestWebsite2 
+{ 
+	 left: 363px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 322px;
+	 height: 231px;
+	 z-index:8;
+} 
