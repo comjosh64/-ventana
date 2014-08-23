@@ -1,0 +1,477 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1020px;
+	 height: 720px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: -30px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1080px;
+	 height: 720px;
+	 z-index:1;
+} 
+
+ #InfoSquare1 
+{ 
+	 left: 16px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:2;
+} 
+
+ #InfoSqaure2 
+{ 
+	 left: 277px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:3;
+} 
+
+ #InfoSqaure3 
+{ 
+	 left: 533px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:4;
+} 
+
+ #InfoSquare4 
+{ 
+	 left: 788px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:5;
+} 
+
+ #InfoSquare5 
+{ 
+	 left: 16px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:6;
+} 
+
+ #InfoSqaure6 
+{ 
+	 left: 277px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:7;
+} 
+
+ #InfoSqaure7 
+{ 
+	 left: 533px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:8;
+} 
+
+ #InfroSqaure8 
+{ 
+	 left: 788px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 203px;
+	 z-index:9;
+} 
+
+ #SearchBar 
+{ 
+	 left: 15px; 
+	 top: 126px; 
+	 position: absolute; 
+	 width: 679px;
+	 height: 67px;
+	 z-index:10;
+} 
+
+ #WebsiteName 
+{ 
+	 left: 347px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 367px;
+	 height: 102px;
+	 z-index:11;
+} 
+
+ #WebsiteNameDropShado 
+{ 
+	 left: 343px; 
+	 top: 14px; 
+	 position: absolute; 
+	 width: 367px;
+	 height: 102px;
+	 z-index:12;
+} 
+
+ #Search 
+{ 
+	 left: 55px; 
+	 top: 140px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 27px;
+	 z-index:13;
+} 
+
+ #X1Circle 
+{ 
+	 left: 32px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:14;
+} 
+
+ #Check1Circle 
+{ 
+	 left: 174px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:15;
+} 
+
+ #Check2Cricle 
+{ 
+	 left: 433px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:16;
+} 
+
+ #X2Circle 
+{ 
+	 left: 297px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:17;
+} 
+
+ #Check3Circle 
+{ 
+	 left: 679px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:18;
+} 
+
+ #X3Circle 
+{ 
+	 left: 561px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:19;
+} 
+
+ #Check4Circle 
+{ 
+	 left: 937px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:20;
+} 
+
+ #X4Circle 
+{ 
+	 left: 809px; 
+	 top: 213px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:21;
+} 
+
+ #Check5Circle 
+{ 
+	 left: 174px; 
+	 top: 459px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:22;
+} 
+
+ #X5Circle 
+{ 
+	 left: 32px; 
+	 top: 459px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:23;
+} 
+
+ #Check6Circle 
+{ 
+	 left: 432px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:24;
+} 
+
+ #X6Circle 
+{ 
+	 left: 297px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:25;
+} 
+
+ #Check7Circle 
+{ 
+	 left: 683px; 
+	 top: 457px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:26;
+} 
+
+ #X7Circle 
+{ 
+	 left: 557px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:27;
+} 
+
+ #Check8Circle 
+{ 
+	 left: 937px; 
+	 top: 457px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:28;
+} 
+
+ #X8Cricle 
+{ 
+	 left: 809px; 
+	 top: 457px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 45px;
+	 z-index:29;
+} 
+
+ #SearchIcon 
+{ 
+	 left: 636px; 
+	 top: 133px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 40px;
+	 z-index:30;
+} 
+
+ #X1 
+{ 
+	 left: 41px; 
+	 top: 223px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:31;
+} 
+
+ #X2 
+{ 
+	 left: 306px; 
+	 top: 223px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:32;
+} 
+
+ #X3 
+{ 
+	 left: 570px; 
+	 top: 224px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:33;
+} 
+
+ #X4 
+{ 
+	 left: 818px; 
+	 top: 224px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:34;
+} 
+
+ #X5 
+{ 
+	 left: 41px; 
+	 top: 470px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:35;
+} 
+
+ #X6 
+{ 
+	 left: 306px; 
+	 top: 469px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:36;
+} 
+
+ #X7 
+{ 
+	 left: 566px; 
+	 top: 469px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:37;
+} 
+
+ #X8 
+{ 
+	 left: 818px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 24px;
+	 z-index:38;
+} 
+
+ #Check1 
+{ 
+	 left: 184px; 
+	 top: 224px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:39;
+} 
+
+ #Check2 
+{ 
+	 left: 442px; 
+	 top: 222px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:40;
+} 
+
+ #Check3 
+{ 
+	 left: 690px; 
+	 top: 223px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:41;
+} 
+
+ #Check4 
+{ 
+	 left: 946px; 
+	 top: 223px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:42;
+} 
+
+ #Check5 
+{ 
+	 left: 184px; 
+	 top: 469px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:43;
+} 
+
+ #Check6 
+{ 
+	 left: 441px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:44;
+} 
+
+ #Check7 
+{ 
+	 left: 692px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:45;
+} 
+
+ #Check8 
+{ 
+	 left: 946px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 28px;
+	 z-index:46;
+} 
